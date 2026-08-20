@@ -1,0 +1,31 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -64 64 -64 -64
+LINE Normal 96 0 -64 64
+LINE Normal -64 -64 96 0
+LINE Normal 16 -33 16 -48
+LINE Normal 16 32 16 48
+TEXT -58 -33 Left 2 +
+TEXT -56 31 Left 2 -
+TEXT 20 -49 Left 2 +
+TEXT 24 46 Left 2 -
+WINDOW 0 0 -56 Bottom 2
+WINDOW 3 3 -13 Top 1
+SYMATTR Prefix X
+SYMATTR Value LMX58_LM2904
+SYMATTR ModelFile lmx58_lm2904.lib
+PIN -64 -32 NONE 8
+PINATTR PinName IN+
+PINATTR SpiceOrder 1
+PIN -64 32 NONE 8
+PINATTR PinName IN-
+PINATTR SpiceOrder 2
+PIN 16 -48 NONE 8
+PINATTR PinName VCC
+PINATTR SpiceOrder 3
+PIN 16 48 NONE 8
+PINATTR PinName VEE
+PINATTR SpiceOrder 4
+PIN 96 0 NONE 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 5
