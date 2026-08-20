@@ -10,9 +10,9 @@ At the end of the video we will build the amplifier and test the actual physical
 Download LTspice Simulator: 
 https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
 
-## Content in this Github repository:
+## Content in this GitHub repository:
 
-### Ltspice simulation files
+### LTspice simulation files
 The simulation file, schematic symbol and Spice model files.
 Unzip and double click the amplifier.asc file to open it in LTspice
 
@@ -28,7 +28,7 @@ Single file offline signal generator used in this tutorial.
 (AI generated tool)
 <img src="HTML_Signal_Generator/HTML_signal_generator.jpg" width="50%">
 
-### PCB_KICAD_Files_Audio_amplifier
+### PCB_KiCAD_Files_Audio_amplifier
 The PCB files made in KiCAD 10 in case you want to re-use or edit them.
 
 
