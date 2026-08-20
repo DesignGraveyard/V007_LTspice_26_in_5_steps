@@ -18,6 +18,7 @@ Unzip and double click the amplifier.asc file to open it in LTspice
 
 ### PCB Gerber files for the Amplifier
 Send this zip file to your PCB manufacturer to directly order the Amplifier PCB's
+<img src="PCB_KICAD_Files_Audio_amplifier/Audio_amplifier_PCB_3D.png" width="50%">
 
 ### PCB_Material_BOM_Audio_amplifier
 Material BOM to build the amplifier
@@ -25,6 +26,7 @@ Material BOM to build the amplifier
 ### HTML_Signal_Generator
 Single file offline signal generator used in this tutorial.
 (AI generated tool)
+<img src="HTML_Signal_Generator/HTML_signal_generator.jpg" width="50%">
 
 ### PCB_KICAD_Files_Audio_amplifier
 The PCB files made in KiCAD 10 in case you want to re-use or edit them.
