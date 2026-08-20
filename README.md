@@ -29,7 +29,8 @@ Single file offline signal generator used in this tutorial.
 <img src="HTML_Signal_Generator/HTML_signal_generator.jpg" width="50%">
 
 ### PCB_KiCAD_Files_Audio_amplifier
-The PCB files made in KiCAD 10 in case you want to re-use or edit them.
+The PCB files made in KiCAD 10 in case you want to re-use or edit them.  
+The folder also contains a pdf schematic and a 3D PCB render (png)  
 
 
 
