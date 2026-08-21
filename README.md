@@ -7,13 +7,13 @@ At the end of the video we will build the amplifier and test the actual physical
 ### Watch the YouTube video, it will guide you through the process step by step:  
 [![Watch the video](https://img.youtube.com/vi/W7xaxCvsmhc/0.jpg)](https://youtu.be/W7xaxCvsmhc)  
 
-Download LTspice Simulator: 
+Download LTspice Simulator:  
 https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
 
 ## Content in this GitHub repository:
 
 ### LTspice simulation files
-The simulation file, schematic symbol and Spice model files.
+The simulation file, schematic symbol and Spice model files.  
 Unzip and double click the amplifier.asc file to open it in LTspice
 
 ### PCB Gerber files for the Amplifier
@@ -24,8 +24,8 @@ Send this zip file to your PCB manufacturer to directly order the Amplifier PCB'
 Material BOM to build the amplifier
 
 ### HTML_Signal_Generator
-Single file offline signal generator used in this tutorial.
-(AI generated tool)
+Single file offline signal generator used in this tutorial. (AI generated tool)  
+Download "HTML_Signal_Generator.html" and open in your browser.  
 <img src="HTML_Signal_Generator/HTML_signal_generator.jpg" width="50%">
 
 ### PCB_KiCAD_Files_Audio_amplifier
