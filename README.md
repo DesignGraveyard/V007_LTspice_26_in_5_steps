@@ -5,7 +5,7 @@ We cover everything from drawing the schematic to importing third-party SPICE mo
 At the end of the video we will build the amplifier and test the actual physical hardware on the bench. 
 
 ### Watch the YouTube video, it will guide you through the process step by step:  
-[![Watch the video](https://img.youtube.com/vi/W7xaxCvsmhc/0.jpg)](https://youtu.be/W7xaxCvsmhc)  
+[![Watch the video](https://img.youtube.com/vi/P0ELV0oO3nA/0.jpg)](https://youtu.be/P0ELV0oO3nA)  
 
 Download LTspice Simulator:  
 https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
